@@ -1,0 +1,11 @@
+D:\Колледж\Учебная практика\ПМ04\ValidationLibrary\bin\Debug\net8.0\ValidationLibrary.deps.json
+D:\Колледж\Учебная практика\ПМ04\ValidationLibrary\bin\Debug\net8.0\ValidationLibrary.dll
+D:\Колледж\Учебная практика\ПМ04\ValidationLibrary\bin\Debug\net8.0\ValidationLibrary.pdb
+D:\Колледж\Учебная практика\ПМ04\ValidationLibrary\obj\Debug\net8.0\ValidationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Колледж\Учебная практика\ПМ04\ValidationLibrary\obj\Debug\net8.0\ValidationLibrary.AssemblyInfoInputs.cache
+D:\Колледж\Учебная практика\ПМ04\ValidationLibrary\obj\Debug\net8.0\ValidationLibrary.AssemblyInfo.cs
+D:\Колледж\Учебная практика\ПМ04\ValidationLibrary\obj\Debug\net8.0\ValidationLibrary.csproj.CoreCompileInputs.cache
+D:\Колледж\Учебная практика\ПМ04\ValidationLibrary\obj\Debug\net8.0\ValidationLibrary.dll
+D:\Колледж\Учебная практика\ПМ04\ValidationLibrary\obj\Debug\net8.0\refint\ValidationLibrary.dll
+D:\Колледж\Учебная практика\ПМ04\ValidationLibrary\obj\Debug\net8.0\ValidationLibrary.pdb
+D:\Колледж\Учебная практика\ПМ04\ValidationLibrary\obj\Debug\net8.0\ref\ValidationLibrary.dll

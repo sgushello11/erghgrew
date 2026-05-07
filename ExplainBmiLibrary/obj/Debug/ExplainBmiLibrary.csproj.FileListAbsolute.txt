@@ -1,0 +1,6 @@
+D:\Колледж\Учебная практика\ПМ04\ExplainBmiLibrary\bin\Debug\ExplainBmiLibrary.dll
+D:\Колледж\Учебная практика\ПМ04\ExplainBmiLibrary\bin\Debug\ExplainBmiLibrary.pdb
+D:\Колледж\Учебная практика\ПМ04\ExplainBmiLibrary\obj\Debug\ExplainBmiLibrary.csproj.AssemblyReference.cache
+D:\Колледж\Учебная практика\ПМ04\ExplainBmiLibrary\obj\Debug\ExplainBmiLibrary.csproj.CoreCompileInputs.cache
+D:\Колледж\Учебная практика\ПМ04\ExplainBmiLibrary\obj\Debug\ExplainBmiLibrary.dll
+D:\Колледж\Учебная практика\ПМ04\ExplainBmiLibrary\obj\Debug\ExplainBmiLibrary.pdb

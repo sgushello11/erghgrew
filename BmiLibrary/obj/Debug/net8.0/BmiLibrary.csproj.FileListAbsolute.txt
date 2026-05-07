@@ -1,0 +1,15 @@
+D:\Колледж\Учебная практика\ПМ04\BmiLibrary\bin\Debug\net8.0\BmiLibrary.deps.json
+D:\Колледж\Учебная практика\ПМ04\BmiLibrary\bin\Debug\net8.0\BmiLibrary.dll
+D:\Колледж\Учебная практика\ПМ04\BmiLibrary\bin\Debug\net8.0\BmiLibrary.pdb
+D:\Колледж\Учебная практика\ПМ04\BmiLibrary\bin\Debug\net8.0\ValidationLibrary.dll
+D:\Колледж\Учебная практика\ПМ04\BmiLibrary\bin\Debug\net8.0\ValidationLibrary.pdb
+D:\Колледж\Учебная практика\ПМ04\BmiLibrary\obj\Debug\net8.0\BmiLibrary.csproj.AssemblyReference.cache
+D:\Колледж\Учебная практика\ПМ04\BmiLibrary\obj\Debug\net8.0\BmiLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Колледж\Учебная практика\ПМ04\BmiLibrary\obj\Debug\net8.0\BmiLibrary.AssemblyInfoInputs.cache
+D:\Колледж\Учебная практика\ПМ04\BmiLibrary\obj\Debug\net8.0\BmiLibrary.AssemblyInfo.cs
+D:\Колледж\Учебная практика\ПМ04\BmiLibrary\obj\Debug\net8.0\BmiLibrary.csproj.CoreCompileInputs.cache
+D:\Колледж\Учебная практика\ПМ04\BmiLibrary\obj\Debug\net8.0\BmiLibrary.csproj.Up2Date
+D:\Колледж\Учебная практика\ПМ04\BmiLibrary\obj\Debug\net8.0\BmiLibrary.dll
+D:\Колледж\Учебная практика\ПМ04\BmiLibrary\obj\Debug\net8.0\refint\BmiLibrary.dll
+D:\Колледж\Учебная практика\ПМ04\BmiLibrary\obj\Debug\net8.0\BmiLibrary.pdb
+D:\Колледж\Учебная практика\ПМ04\BmiLibrary\obj\Debug\net8.0\ref\BmiLibrary.dll
